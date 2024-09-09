@@ -1,0 +1,90 @@
+        body {
+            font-family: 'Roboto', sans-serif;
+            background: linear-gradient(135deg, #E6F5E3, #F0FFF0);
+        }
+
+        /* Hero Section */
+        .hero {
+            background: linear-gradient(to right, #A2D9CE, #F0FFF0);
+            padding: 100px 0;
+            text-align: center;
+            border-radius: 20px;
+            box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+        }
+        .main-title {
+            font-size: 72px;
+            font-weight: 900; 
+            color: #285430;   
+            margin-bottom: 20px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.1);
+        }
+        .subtitle {
+            font-size: 32px;
+            color: #4C7850;
+            margin-bottom: 40px;
+        }
+
+        /* Content Sections */
+        .section-container {
+            display: flex;
+            justify-content: space-around;
+            align-items: stretch;
+            flex-wrap: wrap;
+            padding: 40px 0;
+        }
+        .bubble {
+            background-color: rgba(240, 255, 240, 0.8);
+            padding: 30px;
+            border-radius: 20px;
+            box-shadow: 0 8px 16px rgba(0,0,0,0.1);
+            text-align: center;
+            flex: 1;
+            margin: 15px;
+            min-width: 280px;
+            transition: transform 0.3s ease;
+        }
+        .bubble:hover {
+            transform: translateY(-5px);
+        }
+        .section-title {
+            font-size: 28px;
+            color: #285430; 
+            margin-bottom: 15px;
+        }
+        .section-text {
+            font-size: 18px;
+            color: #333;
+            line-height: 1.6;
+        }
+        /* Footer */
+        .footer {
+            text-align: center;
+            padding: 20px 0;
+            border-top: 1px solid #A2D9CE;
+            color: #4C7850;
+            font-size: 16px;
+            margin-top: 50px;
+        }
+        .signup-button-container {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+        }
+        
+        .signup-button {
+            background-color: #4C7850; /* Updated color for better visibility */
+            color: #FFF;
+            padding: 12px 24px; /* Adjusted padding */
+            border-radius: 25px; /* Rounded corners */
+            text-decoration: none;
+            font-size: 18px;
+            font-weight: 600;
+            transition: background-color 0.3s ease, transform 0.3s ease; /* Added transform for hover effect */
+            box-shadow: 0 6px 12px rgba(0,0,0,0.1);
+        }
+        
+        .signup-button:hover {
+            background-color: #285430; /* Darker shade on hover */
+            transform: scale(1.05); /* Slightly enlarges button */
+        }
+        

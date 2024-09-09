@@ -1,0 +1,59 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background: linear-gradient(135deg, #E6F5E3, #F0FFF0);
+}
+
+.hero {
+    background: linear-gradient(to right, #A2D9CE, #F0FFF0);
+    padding: 50px 0;
+    text-align: center;
+    border-radius: 20px;
+    margin-bottom: 50px;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+}
+.title {
+    font-size: 56px;
+    font-weight: 800; 
+    color: #285430;   
+    text-align: center;
+    margin-bottom: 20px;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.1);
+}
+
+.subtitle {
+    font-size: 24px;
+    color: #4C7850;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.info-box {
+    background-color: rgba(240, 255, 240, 0.8);
+    border-radius: 15px;
+    padding: 25px;
+    margin-bottom: 30px;
+    box-shadow: 0 8px 16px rgba(0,0,0,0.1);
+}
+
+.info-box h3 {
+    color: #285430;
+    margin-bottom: 15px;
+}
+
+.stButton > button {
+    background-color: #285430;
+    color: white;
+    border-radius: 10px;
+    padding: 12px 24px;
+    font-size: 18px;
+    font-weight: bold;
+    transition: all 0.3s ease;
+}
+
+.footer {
+    text-align: center;
+    margin-top: 50px;
+    padding: 20px 0;
+    color: #4C7850;
+    font-size: 16px;
+}

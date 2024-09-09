@@ -1,0 +1,20 @@
+/* Global Styles */
+body {
+    font-family: 'Roboto', sans-serif;
+    background: linear-gradient(135deg, #E6F5E3, #F0FFF0);
+    color: #333;
+    line-height: 1.6;
+}
+
+.footer {
+    text-align: center;
+    padding: 30px 0;
+    color: #4C7850;
+    font-size: 1rem;
+    margin-top: 60px;
+    border-top: 1px solid #A2D9CE;
+}
+
+/* Hide Streamlit's default elements */
+#MainMenu {visibility: hidden;}
+footer {visibility: hidden;}
