@@ -1,57 +1,52 @@
-absl-py==2.1.0
-altair==5.3.0
-attrs==23.2.0
-blinker==1.8.2
-Brotli @ file:///C:/b/abs_3d36mno480/croot/brotli-split_1714483178642/work
-cachetools==5.3.3
-certifi @ file:///C:/b/abs_35d7n66oz9/croot/certifi_1707229248467/work/certifi
-charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
-click==8.1.7
-colorama==0.4.6
-contourpy==1.2.1
-cycler==0.12.1
-filelock @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/filelock_1701807523603/work
-fonttools==4.53.0
-fsspec==2024.5.0
-gitdb==4.0.11
-GitPython==3.1.43
-grpcio==1.64.0
-idna @ file:///C:/b/abs_aad84bnnw5/croot/idna_1714398896795/work
-intel-openmp==2021.4.0
-Jinja2 @ file:///C:/b/abs_92fccttino/croot/jinja2_1716993447201/work
-jsonschema==4.22.0
-jsonschema-specifications==2023.12.1
-kiwisolver==1.4.5
-Markdown==3.6
-markdown-it-py==3.0.0
-MarkupSafe @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/markupsafe_1707425732791/work
-matplotlib==3.9.0
-mdurl==0.1.2
-mkl==2021.4.0
-mkl-fft @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/mkl_fft_1699473528480/work
-mkl-random @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/mkl_random_1699473588250/work
-mkl-service==2.4.0
-mpmath @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/mpmath_1699484863771/work
-mss==9.0.1
-networkx @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/networkx_1699484973836/work
-numpy @ file:///C:/b/abs_c1ywpu18ar/croot/numpy_and_numpy_base_1708638681471/work/dist/numpy-1.26.4-cp312-cp312-win_amd64.whl#sha256=becc06674317799ad0165a939a7613809d0bee9bd328a1e4308c57c39cacf08c
-opencv-python==4.9.0.80
-packaging==24.0
-pandas==2.2.2
-pillow @ file:///C:/b/abs_95ls_qh4c2/croot/pillow_1714398870615/work
-protobuf==4.25.3
+absl-py
+altair
+attrs
+blinker
+Brotli 
+cachetools
+certifi 
+charset-normalizer 
+click
+colorama
+contourpy
+cycler
+filelock 
+fonttools
+fsspec
+gitdb
+GitPython
+grpcio
+idna 
+Jinja2 
+jsonschema
+jsonschema-specifications
+kiwisolver
+Markdown
+markdown-it-py
+MarkupSafe
+matplotlib
+mdurl
+mpmath 
+mss
+networkx 
+numpy 
+opencv-python
+packaging
+pandas
+pillow 
+protobuf
 psutil==5.9.8
 py-cpuinfo==9.0.0
 pyarrow==16.1.0
 pydeck==0.9.1
 Pygments==2.18.0
 pyparsing==3.1.2
-PySocks @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/pysocks_1699473336188/work
+PySocks 
 python-dateutil==2.9.0.post0
 pytz==2024.1
-PyYAML @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/pyyaml_1699479991712/work
+PyYAML 
 referencing==0.35.1
-requests @ file:///C:/b/abs_9c5n24p1y7/croot/requests_1716902867639/work
+requests 
 rich==13.7.1
 rpds-py==0.18.1
 scipy==1.13.1
@@ -60,7 +55,7 @@ setuptools==69.5.1
 six==1.16.0
 smmap==5.0.1
 streamlit==1.35.0
-sympy @ file:///C:/b/abs_82njkonm7f/croot/sympy_1701397685028/work
+sympy
 tbb==2021.12.0
 tenacity==8.3.0
 tensorboard==2.16.2
@@ -73,11 +68,11 @@ torchaudio==2.3.0
 torchvision==0.18.0
 tornado==6.4
 tqdm==4.66.4
-typing_extensions @ file:///C:/b/abs_0as9mdbkfl/croot/typing_extensions_1715268906610/work
+typing_extensions 
 tzdata==2024.1
 ultralytics==8.2.27
-urllib3 @ file:///C:/b/abs_8e4z8_gh1l/croot/urllib3_1715636317140/work
+urllib3
 watchdog==4.0.1
 Werkzeug==3.0.3
 wheel==0.43.0
-win-inet-pton @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/win_inet_pton_1699472992992/work
+win-inet-pton
